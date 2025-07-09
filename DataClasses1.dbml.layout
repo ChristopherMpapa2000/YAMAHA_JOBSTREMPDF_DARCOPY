@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15, 15.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="3b823549-a1d2-4536-8820-67cb854dda90" absoluteBounds="8.5, 0.625, 2, 14.6550927734375">
+      <DataClassMoniker Name="/DataClasses1DataContext/TRNMemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07333b40-0bb7-4310-ae8d-942c011a2932" absoluteBounds="8.515, 1.085, 1.9700000000000002, 14.0950927734375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3903ff52-ef55-4fc8-a306-42505dec6aad" absoluteBounds="6.5, 0.625, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/TRNAttachFile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abd85bc5-3261-4171-84d8-dd22e4921112" absoluteBounds="6.515, 1.085, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="661a694f-22a8-4425-8e99-2d258322e2a6" absoluteBounds="4.5, 0.625, 2, 8.3091455078125">
+      <DataClassMoniker Name="/DataClasses1DataContext/MSTTemplate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a5f18fc3-f54d-4220-b9ad-dc4ab58edc92" absoluteBounds="4.515, 1.085, 1.9700000000000002, 7.7491455078125009" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a63d6150-c239-4094-bdc2-57bc840106de" absoluteBounds="2.5, 0.625, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/DataClasses1DataContext/MSTMasterData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e34d4b2c-fd49-4c76-8282-140561b61b29" absoluteBounds="2.5149999999999997, 1.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc5341df-65ef-426e-a492-9ee09c6da05a" absoluteBounds="0.5, 0.625, 2, 5.4246240234375">
+      <DataClassMoniker Name="/DataClasses1DataContext/MSTEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d2df425-b909-45c7-a04c-2eb1a0496e39" absoluteBounds="0.51499999999999968, 1.085, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="624b3a7d-1ffb-46aa-b47a-d03ec3e8c8cc" absoluteBounds="10.5, 0.625, 2, 6.9630354817708326">
+      <DataClassMoniker Name="/DataClasses1DataContext/ViewEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c8a3138-dbe7-45d7-8d6b-be03c9c7b8f0" absoluteBounds="10.515, 1.085, 1.9700000000000002, 6.403035481770833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc5dd939-1ab2-4471-865f-78c623f2470c" absoluteBounds="12.75, 0.75, 2, 4.2708154296875">
+      <DataClassMoniker Name="/DataClasses1DataContext/TRNMemoForm" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2dc57965-a3ff-40fd-99f3-bfbd8024888f" absoluteBounds="12.765, 1.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
